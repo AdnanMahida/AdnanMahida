@@ -18,5 +18,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" alt="python" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/452/firebase.png" alt="firebase" width="40" height="40"/> </a> 
+  
+   <a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-logomark-320px.png" alt="flutter" width="40" height="40"/> </a> 
   </p>
 <br />

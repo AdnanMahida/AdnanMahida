@@ -1,3 +1,6 @@
+### Hi there, I'm Adnan Mahida👋
+
+![](https://komarev.com/ghpvc/?username=AdnanMahida&color=blue&style=flat)
 
 ![Adnan's github stats](https://github-readme-stats.vercel.app/api?username=AdnanMahida&show_icons=true&theme=merko&hide_title=true)[![Adnan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMahida&layout=compact&theme=merko)](https://github.com/AdnanMahida). ![Adnan's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AdnanMahida&theme=merko)
 
